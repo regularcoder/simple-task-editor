@@ -3,6 +3,6 @@
     "name": "Simple Task Editor",
     "content_type": "SN|Component",
     "area": "editor-editor",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "url": "https://regularcoder.github.io/simple-task-editor/dist/"
   }
